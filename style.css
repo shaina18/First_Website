@@ -1,0 +1,14 @@
+body {
+  font-family: Helvetica,
+  sans-serif;
+  text-align: center;
+  width: 50%;
+  margin: 0 auto;
+  padding: 30px;
+  border: 1px solid black;
+}
+
+p {
+  color: #333;
+  font-size: 18px;
+}
