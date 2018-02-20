@@ -3,7 +3,7 @@ body {
   sans-serif;
   text-align: center;
   width: 50%;
-  margin: 0 auto;
+  margin: 100px auto;
   padding: 30px;
   border: 1px solid black;
 }
@@ -11,4 +11,5 @@ body {
 p {
   color: #333;
   font-size: 18px;
+  text-align: justify;
 }
